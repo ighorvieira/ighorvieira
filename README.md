@@ -47,7 +47,3 @@ Sou estudante de **Análise e desenvolvimento de sistemas** com foco em desenvol
 ## Contatos
 <a href="https://www.linkedin.com/in/thomaz-szeckir/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
- <div align="center">
-   <a href="">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Szeckir&layout=compact&langs_count=7&theme=rose_pine"/>
- </div>
