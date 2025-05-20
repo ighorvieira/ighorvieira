@@ -45,5 +45,5 @@ Sou estudante de **Análise e desenvolvimento de sistemas** com foco em desenvol
 </div>
 
 ## Contatos
-<a href="www.linkedin.com/in/ighor-vieira-baccarin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="www.linkedin.com/in/ighor-vieira-baccarin"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
